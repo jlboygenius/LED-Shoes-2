@@ -72,7 +72,7 @@ volatile int lastEncoded = 0;
 volatile long encoderValue = 0;
 
 long lastencoderValue = 0;
-
+ 
 int lastMSB = 0;
 int lastLSB = 0;
 
